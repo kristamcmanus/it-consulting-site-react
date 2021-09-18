@@ -8,11 +8,11 @@ import Footer from '../components/Footer';
 import { homeObjOne, homeObjTwo, homeObjThree } from '../components/InfoSection/Data';
 
 const Home = () => {
-  const [isOpen, setIsOpen] = useState(false)
+  const [isOpen, setIsOpen] = useState(false);
 
   const toggle = () => {
-    setIsOpen(!isOpen)
-  }
+    setIsOpen(!isOpen);
+  };
 
   return (
     <>
