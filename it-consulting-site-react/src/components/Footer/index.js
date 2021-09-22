@@ -15,37 +15,21 @@ const Footer = () => {
           <FooterLinksWrapper>
             <FooterLinkItems>
               <FooterLinkTitle>About Us</FooterLinkTitle>
-                <FooterLink to='/signin'>How it Works</FooterLink>
-                <FooterLink to='/signin'>Testimonials</FooterLink>
-                <FooterLink to='/signin'>Careers</FooterLink>
-                <FooterLink to='/signin'>Investors</FooterLink>
-                <FooterLink to='/signin'>Terms of Service</FooterLink>
+                <FooterLink to='/signin'>Who We Are</FooterLink>
             </FooterLinkItems>
             <FooterLinkItems>
-              <FooterLinkTitle>About Us</FooterLinkTitle>
-                <FooterLink to='/signin'>How it Works</FooterLink>
-                <FooterLink to='/signin'>Testimonials</FooterLink>
-                <FooterLink to='/signin'>Careers</FooterLink>
-                <FooterLink to='/signin'>Investors</FooterLink>
-                <FooterLink to='/signin'>Terms of Service</FooterLink>
+              <FooterLinkTitle>Our Process</FooterLinkTitle>
+                <FooterLink to='/signin'>How We Work</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
           <FooterLinksWrapper>
             <FooterLinkItems>
-              <FooterLinkTitle>About Us</FooterLinkTitle>
-                <FooterLink to='/signin'>How it Works</FooterLink>
-                <FooterLink to='/signin'>Testimonials</FooterLink>
-                <FooterLink to='/signin'>Careers</FooterLink>
-                <FooterLink to='/signin'>Investors</FooterLink>
-                <FooterLink to='/signin'>Terms of Service</FooterLink>
+              <FooterLinkTitle>Our Services</FooterLinkTitle>
+                <FooterLink to='/signin'>What We Do</FooterLink>
             </FooterLinkItems>
             <FooterLinkItems>
-              <FooterLinkTitle>About Us</FooterLinkTitle>
-                <FooterLink to='/signin'>How it Works</FooterLink>
-                <FooterLink to='/signin'>Testimonials</FooterLink>
-                <FooterLink to='/signin'>Careers</FooterLink>
-                <FooterLink to='/signin'>Investors</FooterLink>
-                <FooterLink to='/signin'>Terms of Service</FooterLink>
+              <FooterLinkTitle>Contact Us</FooterLinkTitle>
+                <FooterLink to='mailto:gloria.karlinchak@gmail.com'>glotech@gmail.com</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
         </FooterLinksContainer>
@@ -55,26 +39,6 @@ const Footer = () => {
               Glo Tech
             </SocialLogo>
             <WebsiteRights>Glo Tech {new Date().getFullYear()} &copy; All rights reserved</WebsiteRights>
-            <SocialIcons>
-              <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
-                <FaFacebook />
-              </SocialIconLink>
-            </SocialIcons>
-            <SocialIcons>
-              <SocialIconLink href='/' target='_blank' aria-label='Twitter'>
-                <FaTwitter />
-              </SocialIconLink>
-            </SocialIcons>
-            <SocialIcons>
-              <SocialIconLink href='/' target='_blank' aria-label='Instagram'>
-                <FaInstagram />
-              </SocialIconLink>
-            </SocialIcons>
-            <SocialIcons>
-              <SocialIconLink href='/' target='_blank' aria-label='Linkedin'>
-                <FaLinkedin />
-              </SocialIconLink>
-            </SocialIcons>
           </SocialMediaWrap>
         </SocialMedia>
       </FooterWrap>

@@ -1,7 +1,7 @@
 import React from 'react';
 import Icon1 from '../../images/svg-1.svg';
 import Icon2 from '../../images/svg-2.svg';
-import Icon3 from '../../images/svg-3.svg';
+import Icon5 from '../../images/svg-5.svg';
 
 import { ServicesContainer, ServicesH1, ServicesWrapper, ServicesCard, ServicesIcon, ServicesH2, ServicesP } from './ServicesElements';
 
@@ -22,7 +22,7 @@ const Services = () => {
           <ServicesP>Businesses are targets for cybercriminals to launch highly sophisticated cyber threats against, particularly the small to mid-sized firm.</ServicesP>
         </ServicesCard>
         <ServicesCard>
-          <ServicesIcon src={Icon3} alt='cloud solutions'/>
+          <ServicesIcon src={Icon5} alt='cloud solutions'/>
           <ServicesH2>Cloud Solutions</ServicesH2>
           <ServicesP>Glo Tech can create a cloud-based technology infrastructure that adapts to and evolves alongside your business.</ServicesP>
         </ServicesCard>
