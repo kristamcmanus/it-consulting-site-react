@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 
 export const FooterContainer = styled.footer`
-  background-color: #101522;
+  background-color: #000;
 `;
 
 export const FooterWrap = styled.div`
@@ -59,6 +59,7 @@ export const FooterLink = styled.div`
   text-decoration: none;
   margin-bottom: 0.5rem;
   font-size: 14px;
+  cursor: pointer;
 
   &:hover {
     color: #06C2B9;

@@ -21,7 +21,7 @@ export const homeObjTwo = {
   lightText: false,
   lightTextDesc: false,
   topLine: 'How We Work',
-  headline: 'Our Approach',
+  headline: 'Our Process',
   description: 'Our flexible managed services approach includes proactive scheduled maintenance and personalized on-site service while reducing risk and keeping IT consulting costs in check. Ask us about our Flat Rate Managed Services.',
   buttonLabel: 'Learn More',
   imgStart: true,

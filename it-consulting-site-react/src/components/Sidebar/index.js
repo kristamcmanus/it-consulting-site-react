@@ -15,7 +15,7 @@ const Sidebar = ({ isOpen, toggle }) => {
           <SidebarLink to='signup' onClick={toggle}>Sign Up</SidebarLink>
         </SidebarMenu>
         <SideBtnWrap>
-          <SidebarRoute to='/signin'>Sign In</SidebarRoute>
+          <SidebarRoute to='gloria.karlinchak@gmail.com'>Contact Us</SidebarRoute>
         </SideBtnWrap>
       </SidebarWrapper>
     </SidebarContainer>
