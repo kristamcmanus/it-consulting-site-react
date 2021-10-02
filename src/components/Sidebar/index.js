@@ -12,7 +12,6 @@ const Sidebar = ({ isOpen, toggle }) => {
           <SidebarLink to='about' onClick={toggle}>About</SidebarLink>
           <SidebarLink to='our process' onClick={toggle}>Our Process</SidebarLink>
           <SidebarLink to='services' onClick={toggle}>Services</SidebarLink>
-          <SidebarLink to='signup' onClick={toggle}>Sign Up</SidebarLink>
         </SidebarMenu>
         <SideBtnWrap>
           <SidebarRoute to='gloria.karlinchak@gmail.com'>Contact Us</SidebarRoute>
