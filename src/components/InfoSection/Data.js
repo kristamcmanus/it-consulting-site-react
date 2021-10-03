@@ -16,7 +16,7 @@ export const homeObjOne = {
 };
 
 export const homeObjTwo = {
-  id: 'our process',
+  id: 'process',
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
@@ -33,10 +33,10 @@ export const homeObjTwo = {
 };
 
 export const homeObjThree = {
-  id: 'signup',
-  lightBg: true,
-  lightText: false,
-  lightTextDesc: false,
+  id: 'contact',
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
   topLine: 'How Can We Help?',
   headline: 'Contact Us',
   description: 'Get in touch with us to discuss your business needs.',
@@ -44,7 +44,7 @@ export const homeObjThree = {
   imgStart: false,
   img: require('../../images/svg-3.svg'),
   alt: 'Car',
-  dark: false,
-  primary: false,
-  darkText: true
+  dark: true,
+  primary: true,
+  darkText: false
 };
