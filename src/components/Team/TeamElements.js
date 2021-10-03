@@ -6,7 +6,7 @@ export const TeamContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #010606;
+  background: #fff;
 
   @media screen and (max-width: 768px) {
     height: 1100px;
@@ -37,7 +37,7 @@ export const TeamWrapper = styled.div`
 `;
 
 export const TeamCard = styled.div`
-  background: #fff;
+  background: #010606;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -63,8 +63,8 @@ export const TeamIcon = styled.img`
 
 export const TeamH1 = styled.h1`
   font-size: 2.5rem;
-  color: #fff;
   margin-bottom: 64px;
+  color: #010606;
 
   @media screen and (max-width: 480px) {
     font-size: 2rem;
@@ -74,9 +74,11 @@ export const TeamH1 = styled.h1`
 export const TeamH2 = styled.h2`
   font-size: 1rem;
   margin-bottom: 10px;
+  color: #fff;
 `;
 
 export const TeamP = styled.p`
   font-size: 1rem;
   text-align: center;
+  color: #fff;
 `;
