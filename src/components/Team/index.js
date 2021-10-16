@@ -13,20 +13,26 @@ const Team = () => {
         <TeamCard>
           <TeamIcon src={Team1} alt='IT consulting'/>
           <TeamH2>Gloria Karlinchak</TeamH2>
-          <TeamH2>CEO</TeamH2>
-          <TeamP>You might consider hiring someone internally, but often times outsourcing your IT services a smarter route to go. We can help.</TeamP>
+          <TeamH2>Founder & CEO</TeamH2>
+          <TeamP>Gloria founded GloTech after spending more than 30 years working
+          for the federal government accumulating experience in software engineering
+          and cloud security.</TeamP>
         </TeamCard>
         <TeamCard>
-          <TeamIcon src={Team3} alt='cloud solutions'/>
+          <TeamIcon src={Team2} alt='cloud solutions'/>
           <TeamH2>Dan Billings</TeamH2>
           <TeamH2>CFO</TeamH2>
-          <TeamP>Glo Tech can create a cloud-based technology infrastructure that adapts to and evolves alongside your business.</TeamP>
+          <TeamP>Dan  is an energetic and enthusiastic business leader with strengths
+          in disciplined financial execution, strategic planning, technology innovation
+          and product delivery.</TeamP>
         </TeamCard>
         <TeamCard>
-          <TeamIcon src={Team2} alt='network security'/>
+          <TeamIcon src={Team3} alt='network security'/>
           <TeamH2>Fabiana Oliveira</TeamH2>
           <TeamH2>Senior Software Engineer</TeamH2>
-          <TeamP>Businesses are targets for cybercriminals to launch highly sophisticated cyber threats against, particularly the small to mid-sized firm.</TeamP>
+          <TeamP>Fabiana joined GloTech with over 12 years of professional experience
+          in technical management, technical strategy and full stack software engineering
+          from a variety of industries.</TeamP>
         </TeamCard>
       </TeamWrapper>
     </TeamContainer>
