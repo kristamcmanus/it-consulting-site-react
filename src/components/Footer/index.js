@@ -15,6 +15,7 @@ const Footer = () => {
             <FooterLinkItems>
               <FooterLinkTitle>About Us</FooterLinkTitle>
                 <FooterLink to='about' smooth={true} duration={500} spy={true} exact='true'>Who We Are</FooterLink>
+                <FooterLink to='team' smooth={true} duration={500} spy={true} exact='true'>Our Team</FooterLink>
             </FooterLinkItems>
             <FooterLinkItems>
               <FooterLinkTitle>Our Process</FooterLinkTitle>
