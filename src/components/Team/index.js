@@ -12,18 +12,21 @@ const Team = () => {
       <TeamWrapper>
         <TeamCard>
           <TeamIcon src={Team1} alt='IT consulting'/>
-          <TeamH2>IT Consulting</TeamH2>
+          <TeamH2>Gloria Karlinchak</TeamH2>
+          <TeamH2>CEO</TeamH2>
           <TeamP>You might consider hiring someone internally, but often times outsourcing your IT services a smarter route to go. We can help.</TeamP>
         </TeamCard>
         <TeamCard>
-          <TeamIcon src={Team2} alt='network security'/>
-          <TeamH2>Network Security</TeamH2>
-          <TeamP>Businesses are targets for cybercriminals to launch highly sophisticated cyber threats against, particularly the small to mid-sized firm.</TeamP>
+          <TeamIcon src={Team3} alt='cloud solutions'/>
+          <TeamH2>Dan Billings</TeamH2>
+          <TeamH2>CFO</TeamH2>
+          <TeamP>Glo Tech can create a cloud-based technology infrastructure that adapts to and evolves alongside your business.</TeamP>
         </TeamCard>
         <TeamCard>
-          <TeamIcon src={Team3} alt='cloud solutions'/>
-          <TeamH2>Cloud Solutions</TeamH2>
-          <TeamP>Glo Tech can create a cloud-based technology infrastructure that adapts to and evolves alongside your business.</TeamP>
+          <TeamIcon src={Team2} alt='network security'/>
+          <TeamH2>Fabiana Oliveira</TeamH2>
+          <TeamH2>Senior Software Engineer</TeamH2>
+          <TeamP>Businesses are targets for cybercriminals to launch highly sophisticated cyber threats against, particularly the small to mid-sized firm.</TeamP>
         </TeamCard>
       </TeamWrapper>
     </TeamContainer>
