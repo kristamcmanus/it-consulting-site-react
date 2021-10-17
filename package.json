@@ -1,6 +1,6 @@
 {
-  "homepage": "https://kristamcmanus.github.io/it-consulting-site-react/",
-  "name": "it-consulting-site-react",
+  "homepage": "https://kristamcmanus.github.io/it-consulting-site-react-client/",
+  "name": "it-consulting-site-react-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
