@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/it-consulting-site-react/static/css/main.b9f94195.chunk.css",
-    "main.js": "/it-consulting-site-react/static/js/main.681dfc92.chunk.js",
-    "main.js.map": "/it-consulting-site-react/static/js/main.681dfc92.chunk.js.map",
+    "main.css": "/it-consulting-site-react/static/css/main.3eac1322.chunk.css",
+    "main.js": "/it-consulting-site-react/static/js/main.7f94d1b6.chunk.js",
+    "main.js.map": "/it-consulting-site-react/static/js/main.7f94d1b6.chunk.js.map",
     "runtime-main.js": "/it-consulting-site-react/static/js/runtime-main.621b3e61.js",
     "runtime-main.js.map": "/it-consulting-site-react/static/js/runtime-main.621b3e61.js.map",
-    "static/js/2.6217a44d.chunk.js": "/it-consulting-site-react/static/js/2.6217a44d.chunk.js",
-    "static/js/2.6217a44d.chunk.js.map": "/it-consulting-site-react/static/js/2.6217a44d.chunk.js.map",
+    "static/js/2.b4c8b104.chunk.js": "/it-consulting-site-react/static/js/2.b4c8b104.chunk.js",
+    "static/js/2.b4c8b104.chunk.js.map": "/it-consulting-site-react/static/js/2.b4c8b104.chunk.js.map",
     "index.html": "/it-consulting-site-react/index.html",
-    "static/css/main.b9f94195.chunk.css.map": "/it-consulting-site-react/static/css/main.b9f94195.chunk.css.map",
-    "static/js/2.6217a44d.chunk.js.LICENSE.txt": "/it-consulting-site-react/static/js/2.6217a44d.chunk.js.LICENSE.txt",
+    "static/css/main.3eac1322.chunk.css.map": "/it-consulting-site-react/static/css/main.3eac1322.chunk.css.map",
+    "static/js/2.b4c8b104.chunk.js.LICENSE.txt": "/it-consulting-site-react/static/js/2.b4c8b104.chunk.js.LICENSE.txt",
     "static/media/svg-1.svg": "/it-consulting-site-react/static/media/svg-1.b653b566.svg",
     "static/media/svg-2.svg": "/it-consulting-site-react/static/media/svg-2.60c1b481.svg",
     "static/media/svg-3.svg": "/it-consulting-site-react/static/media/svg-3.60c1b481.svg",
     "static/media/svg-5.bb0c68cd.svg": "/it-consulting-site-react/static/media/svg-5.bb0c68cd.svg",
+    "static/media/team-1.79c6b83f.jpg": "/it-consulting-site-react/static/media/team-1.79c6b83f.jpg",
+    "static/media/team-2.983fc0e5.jpg": "/it-consulting-site-react/static/media/team-2.983fc0e5.jpg",
+    "static/media/team-3.6e22e9fa.jpg": "/it-consulting-site-react/static/media/team-3.6e22e9fa.jpg",
     "static/media/video.d28831bc.mp4": "/it-consulting-site-react/static/media/video.d28831bc.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.621b3e61.js",
-    "static/js/2.6217a44d.chunk.js",
-    "static/css/main.b9f94195.chunk.css",
-    "static/js/main.681dfc92.chunk.js"
+    "static/js/2.b4c8b104.chunk.js",
+    "static/css/main.3eac1322.chunk.css",
+    "static/js/main.7f94d1b6.chunk.js"
   ]
 }
