@@ -30,7 +30,7 @@ const Footer = () => {
             <FooterLinkItems>
               <FooterLinkTitle>Contact Us</FooterLinkTitle>
                 <FooterLink>
-                  <a href='mailto:glotech@gmail.com' class='email-link'>glotech@gmail.com</a>
+                  <a href='mailto:glotech@gmail.com'>glotech@gmail.com</a>
                 </FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
