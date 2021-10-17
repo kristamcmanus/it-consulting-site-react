@@ -22,8 +22,16 @@ const HeroSection = () => {
           We collaborate with organizations to build innovative technology solutions that drive results.
         </HeroP>
         <HeroBtnWrapper>
-          <Button to='signup' onMouseEnter={onHover} onMouseLeave={onHover} primary='true' dark='true'>
-            Contact Us {hover ? <ArrowForward /> : <ArrowRight />}
+          <Button to='about'
+          onMouseEnter={onHover}
+          onMouseLeave={onHover}
+          primary='true'
+          dark='true'
+          smooth={true}
+          duration={500}
+          spy={true}
+          exact="true">
+            Learn More {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
         </HeroBtnWrapper>
       </HeroContent>
