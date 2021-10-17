@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path='/' component={Home} exact />
+        <Route path='/{it-consulting-site-react}' component={Home} exact />
       </Switch>
     </Router>
   );
