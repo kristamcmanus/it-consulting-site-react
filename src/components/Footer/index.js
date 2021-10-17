@@ -29,7 +29,9 @@ const Footer = () => {
             </FooterLinkItems>
             <FooterLinkItems>
               <FooterLinkTitle>Contact Us</FooterLinkTitle>
-                <FooterLink to='gloria.karlinchak@gmail.com'>glotech@gmail.com</FooterLink>
+                <FooterLink>
+                  <a href='mailto:glotech@gmail.com' class='email-link'>glotech@gmail.com</a>
+                </FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
         </FooterLinksContainer>
